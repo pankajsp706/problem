@@ -1,8 +1,8 @@
-# Caesar Cipher Encoder/Decoder
+# Combine Overlapping Lists
 
-This script encodes and decodes messages using a Caesar Cipher.
+Combines elements from two lists if they overlap > 50%.
 
 ## Run
 
 ```bash
-python caesar_cipher.py
+python combiner.py
